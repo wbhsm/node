@@ -648,3 +648,4 @@ Other keys used to sign some previous releases:
 [Strategic Initiatives]: https://github.com/nodejs/TSC/blob/master/Strategic-Initiatives.md
 [Technical values and prioritization]: doc/guides/technical-values.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
+#1
